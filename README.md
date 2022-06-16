@@ -22,4 +22,4 @@ how to run :
 1. run code inside `src`
 
 2. run:
- `python <file_name>`
+ `python Average.py`
